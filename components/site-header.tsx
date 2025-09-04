@@ -29,7 +29,7 @@ export default function SiteHeader() {
             Community
           </Link>
           <Link
-            href="https://xyberchain.cloud.blockscout.com/"
+            href="https://www.xyberchainexplorer.xyz/"
             target="_blank"
             rel="noopener noreferrer"
             className="text-muted-foreground hover:text-foreground"
