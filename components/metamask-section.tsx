@@ -70,7 +70,7 @@ export default function MetamaskSection() {
               onClick={addXyberchainToMetamask}
               className="bg-xyber-cyan-500 text-white hover:bg-xyber-cyan-600 transition-colors duration-300 flex items-center gap-2"
             >
-              <Wallet className="h-5 w-5" /> Add Xyberchain Mainnet
+              <Wallet className="h-5 w-5" /> Add Xyberchain
             </Button>
           </motion.div>
           <div className="mt-8 text-left w-full max-w-2xl space-y-4 text-muted-foreground">
