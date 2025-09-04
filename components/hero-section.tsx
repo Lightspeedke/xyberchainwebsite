@@ -20,7 +20,7 @@ export default function HeroSection() {
                 Learn More
               </Button>
             </Link>
-            <Link href="https://xyberchain.cloud.blockscout.com/" target="_blank" rel="noopener noreferrer">
+            <Link href="https://www.xyberchainexplorer.xyz//" target="_blank" rel="noopener noreferrer">
               <Button
                 variant="outline"
                 className="border-white text-white hover:bg-white hover:text-xyber-purple-800 bg-transparent transition-colors duration-300"
