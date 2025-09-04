@@ -13,14 +13,14 @@ export default function MetamaskSection() {
           params: [
             {
               chainId: "0x23EA", // 9194 in hexadecimal
-              chainName: "XYBERCHAIN Mainnet",
+              chainName: "XYBERCHAIN",
               nativeCurrency: {
                 name: "XYBER",
                 symbol: "XYB",
                 decimals: 18,
               },
               rpcUrls: ["https://xyberchain-rpc.xyz/"],
-              blockExplorerUrls: ["https://xyberchain.cloud.blockscout.com/"],
+              blockExplorerUrls: ["https://www.xyberchainexplorer.xyz/"],
             },
           ],
         })
@@ -78,7 +78,7 @@ export default function MetamaskSection() {
             <p>If the automatic connection doesn't work, you can add Xyberchain manually using these details:</p>
             <ul className="list-disc list-inside space-y-2">
               <li>
-                <strong>Network Name:</strong> XYBERCHAIN Mainnet
+                <strong>Network Name:</strong> XYBERCHAIN
               </li>
               <li>
                 <strong>New RPC URL:</strong> https://xyberchain-rpc.xyz/
@@ -90,7 +90,7 @@ export default function MetamaskSection() {
                 <strong>Currency Symbol:</strong> XYB
               </li>
               <li>
-                <strong>Block Explorer URL:</strong> https://xyberchain.cloud.blockscout.com/
+                <strong>Block Explorer URL:</strong> https://www.xyberchainexplorer.xyz/
               </li>
             </ul>
           </div>
