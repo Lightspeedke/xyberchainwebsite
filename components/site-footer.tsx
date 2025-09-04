@@ -12,7 +12,7 @@ export default function SiteFooter() {
           Privacy
         </Link>
         <Link
-          href="https://xyberchain.cloud.blockscout.com/"
+          href="https:/www.xyberchainexplorer.xyz/"
           target="_blank"
           rel="noopener noreferrer"
           className="text-xs hover:underline underline-offset-4"
